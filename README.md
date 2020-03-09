@@ -12,7 +12,7 @@ mkdir C:\Ensup
 
 cd C:\Ensup
 
-mvn scm:checkout -DconnectionUrl=scm:git:https://github.com/maxime20091996/Jgestionetudiant-09-03
+mvn scm:checkout -DconnectionUrl=scm:git:https://github.com/maxime20091996/gestionetudiant-09-03
 
 Aller dans target\checkout\Ensup
 
